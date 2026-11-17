@@ -1,6 +1,4 @@
-# SO
-Revisão de SO
- # Revisao para SO (Sistema Operacional)
+# Revisao para SO (Sistema Operacional)
 
 ## 1- O que é o Sistema Operacional
 Permite acessar e controlar o hardware da maquina, mudar recursos e interagir com aplicações diversas
